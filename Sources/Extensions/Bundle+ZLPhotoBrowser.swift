@@ -109,6 +109,38 @@ extension Bundle {
         var language = "en"
         
         switch ZLCustomLanguageDeploy.language {
+       
+        case .chineseSimplified:
+            language = "zh-Hans"
+        case .chineseTraditional:
+            language = "zh-Hant"
+        case .english:
+            language = "en"
+        case .japanese:
+            language = "ja-US"
+        case .french:
+            language = "fr"
+        case .german:
+            language = "de"
+        case .russian:
+            language = "ru"
+        case .vietnamese:
+            language = "vi"
+        case .korean:
+            language = "ko"
+        case .malay:
+            language = "ms"
+        case .italian:
+            language = "it"
+        case .indonesian:
+            language = "id"
+        case .portuguese:
+            language = "pt-BR"
+        case .spanish:
+            language = "es-419"
+        case .czech:
+            language = "cs"
+        
         case .system:
             language = Locale.preferredLanguages.first ?? "en"
             
@@ -145,38 +177,44 @@ extension Bundle {
             } else {
                 language = "en"
             }
-        case .chineseSimplified:
-            language = "zh-Hans"
-        case .chineseTraditional:
-            language = "zh-Hant"
-        case .english:
-            language = "en"
-        case .japanese:
-            language = "ja-US"
-        case .french:
-            language = "fr"
-        case .german:
-            language = "de"
-        case .russian:
-            language = "ru"
-        case .vietnamese:
-            language = "vi"
-        case .korean:
-            language = "ko"
-        case .malay:
-            language = "ms"
-        case .italian:
-            language = "it"
-        case .indonesian:
-            language = "id"
-        case .portuguese:
-            language = "pt-BR"
-        case .spanish:
-            language = "es-419"
-        case .czech:
-            language = "cs"
-        }
         
+        default:
+            language = Locale.preferredLanguages.first ?? "en"
+            
+            if language.hasPrefix("zh") {
+                if language.range(of: "Hans") != nil {
+                    language = "zh-Hans"
+                } else {
+                    language = "zh-Hant"
+                }
+            } else if language.hasPrefix("ja") {
+                language = "ja-US"
+            } else if language.hasPrefix("fr") {
+                language = "fr"
+            } else if language.hasPrefix("de") {
+                language = "de"
+            } else if language.hasPrefix("ru") {
+                language = "ru"
+            } else if language.hasPrefix("vi") {
+                language = "vi"
+            } else if language.hasPrefix("ko") {
+                language = "ko"
+            } else if language.hasPrefix("ms") {
+                language = "ms"
+            } else if language.hasPrefix("it") {
+                language = "it"
+            } else if language.hasPrefix("id") {
+                language = "id"
+            } else if language.hasPrefix("pt") {
+                language = "pt-BR"
+            } else if language.hasPrefix("es") {
+                language = "es-419"
+            } else if language.hasPrefix("cs") {
+                language = "cs"
+            } else {
+                language = "en"
+            }
+        }
         return language
     }
     
