@@ -26,8 +26,8 @@
 "hudLoading" = "načítám...";
 
 "exceededMaxSelectCount" = "Výběr je omezen na max. %ld";
-"longerThanMaxVideoDuration" = "cs|Unable to select video with a duration longer than %lds";
-"shorterThanMaxVideoDuration" = "cs|Unable to select video with a duration shorter than %lds";
+"longerThanMaxVideoDuration" = "Nemohu vybrat video s délkou větší než %lds";
+"shorterThanMaxVideoDuration" = "Nemohu vybrat video s délkou menší než %lds";
 "exceededMaxVideoSelectCount" = "Výběr je omezen na max. %ld";
 "lessThanMinVideoSelectCount" = "Výběr je omezen na max. %ld";
 
@@ -57,12 +57,12 @@
 "favorites" = "Oblíbené";
 "timelapses" = "Time-Lapse";
 "recentlyAdded" = "Poslední pridané";
-"bursts" = "cs|Bursts";
-"slomoVideos" = "cs|Slo-mo";
-"selfPortraits" = "cs|Selfies";
-"screenshots" = "cs|Screenshots";
-"depthEffect" = "cs|Portrait";
-"livePhotos" = "cs|Live Photos";
+"bursts" = "Bursts";
+"slomoVideos" = "Slo-mo";
+"selfPortraits" = "Selfie";
+"screenshots" = "Screenshoty";
+"depthEffect" = "Portrait";
+"livePhotos" = "Live Photos";
 "animated" = "Animované";
 "myPhotoStream" = "Moje fotky";
 
