@@ -1,14 +1,15 @@
-"previewCamera" = "Camera";
+
+"previewCamera" = "Camera ";
 "previewCameraRecord" = "Record";
 "previewAlbum" = "Album";
 "cancel" = "Cancel";
 
 "originalPhoto" = "Full Image";
-"done" = "Done";
+"done" = "Dokoncit";
 "ok" = "OK";
-"editFinish" = "Done";
+"editFinish" = "Dokoncit";
 
-"back" = "Back";
+"back" = "Zpet";
 "edit" = "Edit";
 "revert" = "Undo";
 "brightness" = "Brightness";
@@ -16,55 +17,55 @@
 "saturation" = "Saturation";
 
 "photo" = "Photos";
-"preview" = "Preview";
+"preview" = "cs|Preview";
 
-"noPhotoTips" = "No Photos";
-"notAllowMixSelect" = "Unable to select video";
+"noPhotoTips" = "cs|No Photos";
+"notAllowMixSelect" = "cs|Unable to select video";
 
-"loading" = "loading, waiting please";
-"hudLoading" = "waiting...";
+"loading" = "cs|loading, waiting please";
+"hudLoading" = "cs|waiting...";
 
-"exceededMaxSelectCount" = "Max count for selection: %ld";
-"longerThanMaxVideoDuration" = "Unable to select video with a duration longer than %lds";
-"shorterThanMaxVideoDuration" = "Unable to select video with a duration shorter than %lds";
-"exceededMaxVideoSelectCount" = "Max count for video selection: %ld";
-"lessThanMinVideoSelectCount" = "Min count for video selection: %ld";
+"exceededMaxSelectCount" = "cs|Max count for selection: %ld";
+"longerThanMaxVideoDuration" = "cs|Unable to select video with a duration longer than %lds";
+"shorterThanMaxVideoDuration" = "cs|Unable to select video with a duration shorter than %lds";
+"exceededMaxVideoSelectCount" = "cs|Max count for video selection: %ld";
+"lessThanMinVideoSelectCount" = "cs|Min count for video selection: %ld";
 
-"noCameraAuthority" = "Please allow %@ to access your device's camera in \"Settings\" > \"Privacy\" > \"Camera\"";
-"noPhotoLibratyAuthority" = "Please allow %@ to access your album in \"Settings\" > \"Privacy\" > \"Photos\"";
-"noMicrophoneAuthority" = "Unable to record audio. Go to \"Settings\" > \"%@\" and enable microphone access.";
-"cameraUnavailable" = "Camera is unavailable";
-"keepRecording" = "Keep Recording";
-"gotoSettings" = "Go to Settings";
+"noCameraAuthority" = "cs|Please allow %@ to access your device's camera in \"Settings\" > \"Privacy\" > \"Camera\"";
+"noPhotoLibratyAuthority" = "cs|Please allow %@ to access your album in \"Settings\" > \"Privacy\" > \"Photos\"";
+"noMicrophoneAuthority" = "cs|Unable to record audio. Go to \"Settings\" > \"%@\" and enable microphone access.";
+"cameraUnavailable" = "cs|Camera is unavailable";
+"keepRecording" = "cs|Keep Recording";
+"gotoSettings" = "cs|Go to Settings";
 
-"iCloudVideoLoadFaild" = "Unable to sync from iCloud";
-"imageLoadFailed" = "loading failed";
+"iCloudVideoLoadFaild" = "cs|Unable to sync from iCloud";
+"imageLoadFailed" = "cs|loading failed";
 
-"save" = "Save";
-"saveImageError" = "Failed to save the image";
-"saveVideoError" = "Failed to save the video";
-"timeout" = "Request timed out";
+"save" = "cs|Save";
+"saveImageError" = "cs|Failed to save the image";
+"saveVideoError" = "cs|Failed to save the video";
+"timeout" = "cs|Request timed out";
 
-"customCameraTips" = "Tap to take photo and hold to record video";
-"customCameraTakePhotoTips" = "Tap to take photo";
-"customCameraRecordVideoTips" = "Hold to record video";
-"minRecordTimeTips" = "Record at least %lds";
+"customCameraTips" = "cs|Tap to take photo and hold to record video";
+"customCameraTakePhotoTips" = "cs|Tap to take photo";
+"customCameraRecordVideoTips" = "cs|Hold to record video";
+"minRecordTimeTips" = "cs|Record at least %lds";
 
-"cameraRoll" = "Recents";
-"panoramas" = "Panoramas";
-"videos" = "Videos";
-"favorites" = "Favorites";
-"timelapses" = "Time-Lapse";
-"recentlyAdded" = "Recently Added";
-"bursts" = "Bursts";
-"slomoVideos" = "Slo-mo";
-"selfPortraits" = "Selfies";
-"screenshots" = "Screenshots";
-"depthEffect" = "Portrait";
-"livePhotos" = "Live Photos";
-"animated" = "Animated";
-"myPhotoStream" = "My Photo Stream";
+"cameraRoll" = "cs|Recents";
+"panoramas" = "cs|Panoramas";
+"videos" = "cs|Videos";
+"favorites" = "cs|Favorites";
+"timelapses" = "cs|Time-Lapse";
+"recentlyAdded" = "cs|Recently Added";
+"bursts" = "cs|Bursts";
+"slomoVideos" = "cs|Slo-mo";
+"selfPortraits" = "cs|Selfies";
+"screenshots" = "cs|Screenshots";
+"depthEffect" = "cs|Portrait";
+"livePhotos" = "cs|Live Photos";
+"animated" = "cs|Animated";
+"myPhotoStream" = "cs|My Photo Stream";
 
-"noTitleAlbumListPlaceholder" = "All Photos";
-"unableToAccessAllPhotos" = "Unable to access all photos in the album.\nAllow access to \"All Photos\" in \"Photos\".";
-"textStickerRemoveTips" = "Drag here to remove";
+"noTitleAlbumListPlaceholder" = "cs|All Photos";
+"unableToAccessAllPhotos" = "cs|Unable to access all photos in the album.\nAllow access to \"All Photos\" in \"Photos\".";
+"textStickerRemoveTips" = "cs|Drag here to remove";

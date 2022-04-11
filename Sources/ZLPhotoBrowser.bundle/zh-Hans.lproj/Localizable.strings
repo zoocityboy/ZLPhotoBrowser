@@ -1,70 +1,71 @@
-"previewCamera" = "拍照";
-"previewCameraRecord" = "拍摄";
-"previewAlbum" = "相册";
-"cancel" = "取消";
 
-"originalPhoto" = "原图";
-"done" = "确定";
-"ok" = "确定";
-"editFinish" = "完成";
+"previewCamera" = "Camera ";
+"previewCameraRecord" = "Record";
+"previewAlbum" = "Album";
+"cancel" = "Cancel";
 
-"back" = "返回";
-"edit" = "编辑";
-"revert" = "还原";
-"brightness" = "亮度";
-"contrast" = "对比度";
-"saturation" = "饱和度";
+"originalPhoto" = "Full Image";
+"done" = "Dokoncit";
+"ok" = "OK";
+"editFinish" = "Dokoncit";
 
-"photo" = "照片";
-"preview" = "预览";
+"back" = "Zpet";
+"edit" = "Edit";
+"revert" = "Undo";
+"brightness" = "Brightness";
+"contrast" = "Contrast";
+"saturation" = "Saturation";
 
-"noPhotoTips" = "无照片";
-"notAllowMixSelect" = "不能同时选择照片和视频";
+"photo" = "Photos";
+"preview" = "cs|Preview";
 
-"loading" = "加载中，请稍后";
-"hudLoading" = "正在处理...";
+"noPhotoTips" = "cs|No Photos";
+"notAllowMixSelect" = "cs|Unable to select video";
 
-"exceededMaxSelectCount" = "最多只能选择%ld张图片";
-"longerThanMaxVideoDuration" = "不能选择超过%ld秒的视频";
-"shorterThanMaxVideoDuration" = "不能选择低于%ld秒的视频";
-"exceededMaxVideoSelectCount" = "最多只能选择%ld个视频";
-"lessThanMinVideoSelectCount" = "最少选择%ld个视频";
+"loading" = "cs|loading, waiting please";
+"hudLoading" = "cs|waiting...";
 
-"noCameraAuthority" = "请在iPhone的\"设置 > 隐私 > 相机\"选项中，允许%@访问你的相机";
-"noPhotoLibratyAuthority" = "请在iPhone的\"设置 > 隐私 >照片\"选项中，允许%@访问你的照片";
-"noMicrophoneAuthority" = "无法录制声音，前往\"设置 > %@\"中打开麦克风权限";
-"cameraUnavailable" = "相机不可用";
-"keepRecording" = "继续拍摄";
-"gotoSettings" = "前往设置";
+"exceededMaxSelectCount" = "cs|Max count for selection: %ld";
+"longerThanMaxVideoDuration" = "cs|Unable to select video with a duration longer than %lds";
+"shorterThanMaxVideoDuration" = "cs|Unable to select video with a duration shorter than %lds";
+"exceededMaxVideoSelectCount" = "cs|Max count for video selection: %ld";
+"lessThanMinVideoSelectCount" = "cs|Min count for video selection: %ld";
 
-"iCloudVideoLoadFaild" = "iCloud无法同步";
-"imageLoadFailed" = "图片加载失败";
+"noCameraAuthority" = "cs|Please allow %@ to access your device's camera in \"Settings\" > \"Privacy\" > \"Camera\"";
+"noPhotoLibratyAuthority" = "cs|Please allow %@ to access your album in \"Settings\" > \"Privacy\" > \"Photos\"";
+"noMicrophoneAuthority" = "cs|Unable to record audio. Go to \"Settings\" > \"%@\" and enable microphone access.";
+"cameraUnavailable" = "cs|Camera is unavailable";
+"keepRecording" = "cs|Keep Recording";
+"gotoSettings" = "cs|Go to Settings";
 
-"save" = "保存";
-"saveImageError" = "图片保存失败";
-"saveVideoError" = "视频保存失败";
-"timeout" = "请求超时";
+"iCloudVideoLoadFaild" = "cs|Unable to sync from iCloud";
+"imageLoadFailed" = "cs|loading failed";
 
-"customCameraTips" = "轻触拍照，按住摄像";
-"customCameraTakePhotoTips" = "轻触拍照";
-"customCameraRecordVideoTips" = "按住摄像";
-"minRecordTimeTips" = "至少录制%ld秒";
+"save" = "cs|Save";
+"saveImageError" = "cs|Failed to save the image";
+"saveVideoError" = "cs|Failed to save the video";
+"timeout" = "cs|Request timed out";
 
-"cameraRoll" = "最近项目";
-"panoramas" = "全景照片";
-"videos" = "视频";
-"favorites" = "个人收藏";
-"timelapses" = "延时摄影";
-"recentlyAdded" = "最近添加";
-"bursts" = "连拍快照";
-"slomoVideos" = "慢动作";
-"selfPortraits" = "自拍";
-"screenshots" = "屏幕快照";
-"depthEffect" = "人像";
-"livePhotos" = "Live Photos";
-"animated" = "动图";
-"myPhotoStream" = "我的照片流";
+"customCameraTips" = "cs|Tap to take photo and hold to record video";
+"customCameraTakePhotoTips" = "cs|Tap to take photo";
+"customCameraRecordVideoTips" = "cs|Hold to record video";
+"minRecordTimeTips" = "cs|Record at least %lds";
 
-"noTitleAlbumListPlaceholder" = "所有照片";
-"unableToAccessAllPhotos" = "无法访问相册中所有照片，\n请允许访问「照片」中的「所有照片」。";
-"textStickerRemoveTips" = "拖到此处删除";
+"cameraRoll" = "cs|Recents";
+"panoramas" = "cs|Panoramas";
+"videos" = "cs|Videos";
+"favorites" = "cs|Favorites";
+"timelapses" = "cs|Time-Lapse";
+"recentlyAdded" = "cs|Recently Added";
+"bursts" = "cs|Bursts";
+"slomoVideos" = "cs|Slo-mo";
+"selfPortraits" = "cs|Selfies";
+"screenshots" = "cs|Screenshots";
+"depthEffect" = "cs|Portrait";
+"livePhotos" = "cs|Live Photos";
+"animated" = "cs|Animated";
+"myPhotoStream" = "cs|My Photo Stream";
+
+"noTitleAlbumListPlaceholder" = "cs|All Photos";
+"unableToAccessAllPhotos" = "cs|Unable to access all photos in the album.\nAllow access to \"All Photos\" in \"Photos\".";
+"textStickerRemoveTips" = "cs|Drag here to remove";
