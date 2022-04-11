@@ -1,71 +1,71 @@
 
-"previewCamera" = "Camera ";
-"previewCameraRecord" = "Record";
+"previewCamera" = "Fotoaparát ";
+"previewCameraRecord" = "Nahrát";
 "previewAlbum" = "Album";
-"cancel" = "Cancel";
+"cancel" = "Zrušit";
 
-"originalPhoto" = "Full Image";
-"done" = "Dokoncit";
+"originalPhoto" = "Plná kvalita";
+"done" = "Dokončit";
 "ok" = "OK";
-"editFinish" = "Dokoncit";
+"editFinish" = "Dokončit";
 
-"back" = "Zpet";
-"edit" = "Edit";
-"revert" = "Undo";
-"brightness" = "Brightness";
-"contrast" = "Contrast";
-"saturation" = "Saturation";
+"back" = "Zpět";
+"edit" = "Upravit";
+"revert" = "Vrátit";
+"brightness" = "Jas";
+"contrast" = "Kontrast";
+"saturation" = "Saturace";
 
-"photo" = "Photos";
-"preview" = "cs|Preview";
+"photo" = "Fotky";
+"preview" = "Náhled";
 
-"noPhotoTips" = "cs|No Photos";
-"notAllowMixSelect" = "cs|Unable to select video";
+"noPhotoTips" = "Žádné fotky";
+"notAllowMixSelect" = "Nemohu vybrat video";
 
-"loading" = "cs|loading, waiting please";
-"hudLoading" = "cs|waiting...";
+"loading" = "chvilku strpení, prosím...";
+"hudLoading" = "načítám...";
 
-"exceededMaxSelectCount" = "cs|Max count for selection: %ld";
+"exceededMaxSelectCount" = "Výběr je omezen na max. %ld";
 "longerThanMaxVideoDuration" = "cs|Unable to select video with a duration longer than %lds";
 "shorterThanMaxVideoDuration" = "cs|Unable to select video with a duration shorter than %lds";
-"exceededMaxVideoSelectCount" = "cs|Max count for video selection: %ld";
-"lessThanMinVideoSelectCount" = "cs|Min count for video selection: %ld";
+"exceededMaxVideoSelectCount" = "Výběr je omezen na max. %ld";
+"lessThanMinVideoSelectCount" = "Výběr je omezen na max. %ld";
 
 "noCameraAuthority" = "cs|Please allow %@ to access your device's camera in \"Settings\" > \"Privacy\" > \"Camera\"";
 "noPhotoLibratyAuthority" = "cs|Please allow %@ to access your album in \"Settings\" > \"Privacy\" > \"Photos\"";
 "noMicrophoneAuthority" = "cs|Unable to record audio. Go to \"Settings\" > \"%@\" and enable microphone access.";
-"cameraUnavailable" = "cs|Camera is unavailable";
-"keepRecording" = "cs|Keep Recording";
-"gotoSettings" = "cs|Go to Settings";
+"cameraUnavailable" = "Kamera není dostupná";
+"keepRecording" = "Nahrávat dále";
+"gotoSettings" = "Do nastavení";
 
-"iCloudVideoLoadFaild" = "cs|Unable to sync from iCloud";
-"imageLoadFailed" = "cs|loading failed";
+"iCloudVideoLoadFaild" = "Nemohu synchronizovat s iCloud";
+"imageLoadFailed" = "Načítání selhalo";
 
-"save" = "cs|Save";
-"saveImageError" = "cs|Failed to save the image";
-"saveVideoError" = "cs|Failed to save the video";
-"timeout" = "cs|Request timed out";
+"save" = "Uložit";
+"saveImageError" = "Nemohu uložit obrázek.";
+"saveVideoError" = "Nemohu uložit video.";
+"timeout" = "Požadavek vypršel";
 
-"customCameraTips" = "cs|Tap to take photo and hold to record video";
-"customCameraTakePhotoTips" = "cs|Tap to take photo";
-"customCameraRecordVideoTips" = "cs|Hold to record video";
-"minRecordTimeTips" = "cs|Record at least %lds";
+"customCameraTips" = "Tapnutím vyfotíte a přdržením nahrajete video.";
+"customCameraTakePhotoTips" = "Tapnutím vyfotit";
+"customCameraRecordVideoTips" = "Přidržením nahrát";
+"minRecordTimeTips" = "Nahrát alespoň %lds";
 
-"cameraRoll" = "cs|Recents";
-"panoramas" = "cs|Panoramas";
-"videos" = "cs|Videos";
-"favorites" = "cs|Favorites";
-"timelapses" = "cs|Time-Lapse";
-"recentlyAdded" = "cs|Recently Added";
+"cameraRoll" = "Poslední";
+"panoramas" = "Panorámata";
+"videos" = "Videa";
+"favorites" = "Oblíbené";
+"timelapses" = "Time-Lapse";
+"recentlyAdded" = "Poslední pridané";
 "bursts" = "cs|Bursts";
 "slomoVideos" = "cs|Slo-mo";
 "selfPortraits" = "cs|Selfies";
 "screenshots" = "cs|Screenshots";
 "depthEffect" = "cs|Portrait";
 "livePhotos" = "cs|Live Photos";
-"animated" = "cs|Animated";
-"myPhotoStream" = "cs|My Photo Stream";
+"animated" = "Animované";
+"myPhotoStream" = "Moje fotky";
 
-"noTitleAlbumListPlaceholder" = "cs|All Photos";
-"unableToAccessAllPhotos" = "cs|Unable to access all photos in the album.\nAllow access to \"All Photos\" in \"Photos\".";
-"textStickerRemoveTips" = "cs|Drag here to remove";
+"noTitleAlbumListPlaceholder" = "Všechny fotky";
+"unableToAccessAllPhotos" = "Nemám přístup k fotkám v albu.\nPovolte přítup pro \"Všechny fotky\".";
+"textStickerRemoveTips" = "Přetáhnout sem pro smazání";
