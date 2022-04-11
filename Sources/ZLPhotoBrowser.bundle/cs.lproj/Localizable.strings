@@ -1,0 +1,71 @@
+
+"previewCamera" = "Camera ";
+"previewCameraRecord" = "Record";
+"previewAlbum" = "Album";
+"cancel" = "Cancel";
+
+"originalPhoto" = "Full Image";
+"done" = "Dokoncit";
+"ok" = "OK";
+"editFinish" = "Dokoncit";
+
+"back" = "Zpet";
+"edit" = "Edit";
+"revert" = "Undo";
+"brightness" = "Brightness";
+"contrast" = "Contrast";
+"saturation" = "Saturation";
+
+"photo" = "Photos";
+"preview" = "cs|Preview";
+
+"noPhotoTips" = "cs|No Photos";
+"notAllowMixSelect" = "cs|Unable to select video";
+
+"loading" = "cs|loading, waiting please";
+"hudLoading" = "cs|waiting...";
+
+"exceededMaxSelectCount" = "cs|Max count for selection: %ld";
+"longerThanMaxVideoDuration" = "cs|Unable to select video with a duration longer than %lds";
+"shorterThanMaxVideoDuration" = "cs|Unable to select video with a duration shorter than %lds";
+"exceededMaxVideoSelectCount" = "cs|Max count for video selection: %ld";
+"lessThanMinVideoSelectCount" = "cs|Min count for video selection: %ld";
+
+"noCameraAuthority" = "cs|Please allow %@ to access your device's camera in \"Settings\" > \"Privacy\" > \"Camera\"";
+"noPhotoLibratyAuthority" = "cs|Please allow %@ to access your album in \"Settings\" > \"Privacy\" > \"Photos\"";
+"noMicrophoneAuthority" = "cs|Unable to record audio. Go to \"Settings\" > \"%@\" and enable microphone access.";
+"cameraUnavailable" = "cs|Camera is unavailable";
+"keepRecording" = "cs|Keep Recording";
+"gotoSettings" = "cs|Go to Settings";
+
+"iCloudVideoLoadFaild" = "cs|Unable to sync from iCloud";
+"imageLoadFailed" = "cs|loading failed";
+
+"save" = "cs|Save";
+"saveImageError" = "cs|Failed to save the image";
+"saveVideoError" = "cs|Failed to save the video";
+"timeout" = "cs|Request timed out";
+
+"customCameraTips" = "cs|Tap to take photo and hold to record video";
+"customCameraTakePhotoTips" = "cs|Tap to take photo";
+"customCameraRecordVideoTips" = "cs|Hold to record video";
+"minRecordTimeTips" = "cs|Record at least %lds";
+
+"cameraRoll" = "cs|Recents";
+"panoramas" = "cs|Panoramas";
+"videos" = "cs|Videos";
+"favorites" = "cs|Favorites";
+"timelapses" = "cs|Time-Lapse";
+"recentlyAdded" = "cs|Recently Added";
+"bursts" = "cs|Bursts";
+"slomoVideos" = "cs|Slo-mo";
+"selfPortraits" = "cs|Selfies";
+"screenshots" = "cs|Screenshots";
+"depthEffect" = "cs|Portrait";
+"livePhotos" = "cs|Live Photos";
+"animated" = "cs|Animated";
+"myPhotoStream" = "cs|My Photo Stream";
+
+"noTitleAlbumListPlaceholder" = "cs|All Photos";
+"unableToAccessAllPhotos" = "cs|Unable to access all photos in the album.\nAllow access to \"All Photos\" in \"Photos\".";
+"textStickerRemoveTips" = "cs|Drag here to remove";

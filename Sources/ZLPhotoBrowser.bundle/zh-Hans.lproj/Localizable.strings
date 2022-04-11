@@ -17,55 +17,55 @@
 "saturation" = "Saturation";
 
 "photo" = "Photos";
-"preview" = "cs|Preview";
+"preview" = "cshans|Preview";
 
-"noPhotoTips" = "cs|No Photos";
-"notAllowMixSelect" = "cs|Unable to select video";
+"noPhotoTips" = "cshans|No Photos";
+"notAllowMixSelect" = "cshans|Unable to select video";
 
-"loading" = "cs|loading, waiting please";
-"hudLoading" = "cs|waiting...";
+"loading" = "cshans|loading, waiting please";
+"hudLoading" = "cshans|waiting...";
 
-"exceededMaxSelectCount" = "cs|Max count for selection: %ld";
-"longerThanMaxVideoDuration" = "cs|Unable to select video with a duration longer than %lds";
-"shorterThanMaxVideoDuration" = "cs|Unable to select video with a duration shorter than %lds";
-"exceededMaxVideoSelectCount" = "cs|Max count for video selection: %ld";
-"lessThanMinVideoSelectCount" = "cs|Min count for video selection: %ld";
+"exceededMaxSelectCount" = "cshans|Max count for selection: %ld";
+"longerThanMaxVideoDuration" = "cshans|Unable to select video with a duration longer than %lds";
+"shorterThanMaxVideoDuration" = "cshans|Unable to select video with a duration shorter than %lds";
+"exceededMaxVideoSelectCount" = "cshans|Max count for video selection: %ld";
+"lessThanMinVideoSelectCount" = "cshans|Min count for video selection: %ld";
 
-"noCameraAuthority" = "cs|Please allow %@ to access your device's camera in \"Settings\" > \"Privacy\" > \"Camera\"";
-"noPhotoLibratyAuthority" = "cs|Please allow %@ to access your album in \"Settings\" > \"Privacy\" > \"Photos\"";
-"noMicrophoneAuthority" = "cs|Unable to record audio. Go to \"Settings\" > \"%@\" and enable microphone access.";
-"cameraUnavailable" = "cs|Camera is unavailable";
-"keepRecording" = "cs|Keep Recording";
-"gotoSettings" = "cs|Go to Settings";
+"noCameraAuthority" = "cshans|Please allow %@ to access your device's camera in \"Settings\" > \"Privacy\" > \"Camera\"";
+"noPhotoLibratyAuthority" = "cshans|Please allow %@ to access your album in \"Settings\" > \"Privacy\" > \"Photos\"";
+"noMicrophoneAuthority" = "cshans|Unable to record audio. Go to \"Settings\" > \"%@\" and enable microphone access.";
+"cameraUnavailable" = "cshans|Camera is unavailable";
+"keepRecording" = "cshans|Keep Recording";
+"gotoSettings" = "cshans|Go to Settings";
 
-"iCloudVideoLoadFaild" = "cs|Unable to sync from iCloud";
-"imageLoadFailed" = "cs|loading failed";
+"iCloudVideoLoadFaild" = "cshans|Unable to sync from iCloud";
+"imageLoadFailed" = "cshans|loading failed";
 
-"save" = "cs|Save";
-"saveImageError" = "cs|Failed to save the image";
-"saveVideoError" = "cs|Failed to save the video";
-"timeout" = "cs|Request timed out";
+"save" = "cshans|Save";
+"saveImageError" = "cshans|Failed to save the image";
+"saveVideoError" = "cshans|Failed to save the video";
+"timeout" = "cshans|Request timed out";
 
-"customCameraTips" = "cs|Tap to take photo and hold to record video";
-"customCameraTakePhotoTips" = "cs|Tap to take photo";
-"customCameraRecordVideoTips" = "cs|Hold to record video";
-"minRecordTimeTips" = "cs|Record at least %lds";
+"customCameraTips" = "cshans|Tap to take photo and hold to record video";
+"customCameraTakePhotoTips" = "cshans|Tap to take photo";
+"customCameraRecordVideoTips" = "cshans|Hold to record video";
+"minRecordTimeTips" = "cshans|Record at least %lds";
 
-"cameraRoll" = "cs|Recents";
-"panoramas" = "cs|Panoramas";
-"videos" = "cs|Videos";
-"favorites" = "cs|Favorites";
-"timelapses" = "cs|Time-Lapse";
-"recentlyAdded" = "cs|Recently Added";
-"bursts" = "cs|Bursts";
-"slomoVideos" = "cs|Slo-mo";
-"selfPortraits" = "cs|Selfies";
-"screenshots" = "cs|Screenshots";
-"depthEffect" = "cs|Portrait";
-"livePhotos" = "cs|Live Photos";
-"animated" = "cs|Animated";
-"myPhotoStream" = "cs|My Photo Stream";
+"cameraRoll" = "cshans|Recents";
+"panoramas" = "cshans|Panoramas";
+"videos" = "cshans|Videos";
+"favorites" = "cshans|Favorites";
+"timelapses" = "cshans|Time-Lapse";
+"recentlyAdded" = "cshans|Recently Added";
+"bursts" = "cshans|Bursts";
+"slomoVideos" = "cshans|Slo-mo";
+"selfPortraits" = "cshans|Selfies";
+"screenshots" = "cshans|Screenshots";
+"depthEffect" = "cshans|Portrait";
+"livePhotos" = "cshans|Live Photos";
+"animated" = "cshans|Animated";
+"myPhotoStream" = "cshans|My Photo Stream";
 
-"noTitleAlbumListPlaceholder" = "cs|All Photos";
-"unableToAccessAllPhotos" = "cs|Unable to access all photos in the album.\nAllow access to \"All Photos\" in \"Photos\".";
-"textStickerRemoveTips" = "cs|Drag here to remove";
+"noTitleAlbumListPlaceholder" = "cshans|All Photos";
+"unableToAccessAllPhotos" = "cshans|Unable to access all photos in the album.\nAllow access to \"All Photos\" in \"Photos\".";
+"textStickerRemoveTips" = "cshans|Drag here to remove";
